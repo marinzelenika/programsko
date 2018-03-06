@@ -1,0 +1,30 @@
+Vizija-aplikacija za poljoprivredno gospodarstvo
+
+
+Parcele- naziv svake parcele pobliže oznaèava lokaciju na kojoj se oranica nalazi, ili mora imati GPS koordinate.
+Treba evidentirati trošak svake radnje na oranici.
+Trošak kupovine sadnica, evidencija datuma sadnje.
+Berba- koliko kilograma je ubrano, kada i u kojoj sezoni je bila berba.
+Evidentirati i trošak prskanja.
+Evidentirati državni poticaj.
+-Farme-
+Jedna ili više farmi, njihov naziv pobliže odreðuje na kojoj se lokaciji nalazi farma(ili GPS koordinate).
+Evidencija životinja, koliko ima kojih.
+Veæe životinje- evidencija se vodi na razini pojedine životinje(krave,svinje),za svaku se vodi posebno kilaža, je li živa ili mrtva itd.
+Manje životinje evidentiramo skupno, npr piliæi.
+Životinje su èipirane s pojedinaènim podacima- dodatno istražiti online.
+Evidentirati i dobivenu hranu, npr jaja ili mlijeko(koliko litara od koje krave).
+Evidentirati i meso- koliko kilograma i koje vrste.
+Evidencija kupljene hrane- koliko, kada je kupljeno, i za koje životinje.
+Mlijekomati-lokacija, kapacitet,punjenja, pražnjenja.
+Evidentirati i koliko se mlijeka nije prodalo i koliko je stavljeno ponovno u automat, 
+te kolika je zarada(koliko je novca izvuèeno),razlog punjenja..
+Evidencija popravka(servis).
+Evidencija alata-
+Traktor-trenutna vrijednost i koliko je kostao kad je kupljen,
+popravci, kupovna dodatne opreme za traktor.
+Evidencija kada se koristi alat(traktor,freza itd.)
+Prodaja mesa i jaja-datum prodaje, kolièina, zarada.
+Evidencija planiranih ili obavljenih radnji na oranicama.
+Voditi ukupni proraèun, zaradu i potrošnju.
+
